@@ -1,0 +1,14 @@
+Taroh file GShet32-main ke dalem Documents/Arduino/Libraries
+
+Taroh file Send_Data_5_Counter_Limit ke dalem Documents/Arduino
+
+kalo mau ubah ssid sama password samain kayak host atau routernya atau kalo ga mau ribet kalian ubah aja ssid sama password host atau routernya jadi sama kayak ESP32-nya
+
+tolong jgn ubah alamat gsheet di dalem program ESP32-nya
+
+ssid & pass program ESP32
+ssid: "yaudah pake"
+pass: "masukaja"
+
+link gsheet: https://docs.google.com/spreadsheets/d/1Va8vynQBY-XBRzt5jMBthvJaqe288eqnQ20JDz6SHsA/edit?pli=1#gid=0
+
