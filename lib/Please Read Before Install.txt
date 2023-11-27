@@ -1,0 +1,11 @@
+Move GShet32-main file to Documents/Arduino/Libraries folder
+
+Put the Send_Data_5_Counter_Limit file into Documents/Arduino
+
+If you want to change the ssid and password to be the same as the host or router or if you don't want to be complicated, just change the ssid and password of the host or router to be the same as the ESP32.
+
+ssid & pass ESP32 code
+ssid: "xxxxxxxxx"
+pass: "xxxxxxxxx"
+
+gsheet link: https://docs.google.com/spreadsheets/d/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/edit?pli=1#gid=0
